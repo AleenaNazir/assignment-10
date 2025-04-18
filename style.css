@@ -1,0 +1,15 @@
+.upper{
+    width: 600px;
+    height: 400px;
+    border: 2px solid black;
+}
+.a{
+    width: 600px;
+    height: 200px;
+    background-color:#ffffff ;
+}
+.b{
+    width: 600px;
+    height: 200px;
+    background-color:#dc143c;
+}
